@@ -1,11 +1,16 @@
-// kilometerToMeter
+//https://github.com/mehrajratul/assignmentjs
+
+
+
+
+// Kilometer To Meter
                                                             // 1 km = 1000m
 function kilometerToMeter(kiloMeter) {
     var meter = 1000 * kiloMeter;               
     return meter;
 }
 
-// budgetCalculator
+// Budget Calculator
                                                             // watch = 50
                                                             // phone= 100
                                                             // laptop = 500
@@ -17,7 +22,7 @@ function budgetCalculator(watch, phone, laptop) {
     return totalSum;   
 }
 
-// hotelCost
+// Hotel Cost
 
 
 function hotelCost(totalDays) {
@@ -42,7 +47,7 @@ function hotelCost(totalDays) {
 }
 
 
-//megaFriend
+//Mega Friend
 
 
 
